@@ -1,3 +1,3 @@
 import time
 
-time.sleep(30) # 30 seconds for wait
+time.sleep(60) # 60 seconds for wait
